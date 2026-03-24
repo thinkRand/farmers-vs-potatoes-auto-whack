@@ -2,6 +2,8 @@
 
 An AutoHotkey script that automates the whack-a-mole minigame with human-like behavior and reliability features.
 
+<img src="./pic.jpg" width="100%" >
+
 ## 📋 Features
 
 - **Automated Gameplay**: Automatically detects and clicks on moles
